@@ -1,0 +1,4 @@
+Options -Indexes
+
+ErrorDocument 404 /VicomNet/cont/vistas/404.php
+ErrorDocument 403 /VicomNet/cont/vistas/404.php
